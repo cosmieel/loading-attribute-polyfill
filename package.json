@@ -1,5 +1,5 @@
 {
-  "name": "loading-attribute-polyfill",
+  "name": "@regru/loading-attribute-polyfill",
   "version": "1.2.0",
   "description": "Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute.",
   "main": "loading-attribute-polyfill.min.js",
@@ -9,7 +9,6 @@
   },
   "author": "Maximilian Franzke",
   "license": "MIT",
-  "readmeFilename": "README.md",
   "keywords": [
     "lazy loading",
     "native lazy loading",
